@@ -25,6 +25,8 @@ To install and run the client, just type...
 
 .. code-block:: shell
 
+   git clone https://github.com/letsencrypt/letsencrypt
+   cd letsencrypt
    ./letsencrypt-auto
 
 .. hint:: During the beta phase, Let's Encrypt enforces strict rate limits on
